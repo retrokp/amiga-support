@@ -1,0 +1,12 @@
+[package]
+name = "amiga-support"
+version = "0.1.0"
+edition = "2024"
+description = "Support functions for Amiga (m68k) system libraries"
+repository = "https://github.com/retrokp/amiga-support"
+license = "0BSD OR Apache-2.0"
+keywords = ["amiga"]
+categories = ["no-std", "no-std::no-alloc"]
+
+[dependencies]
+amiga-sys = { git = "https://github.com/retrokp/amiga-sys.git" }
