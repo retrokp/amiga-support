@@ -4,6 +4,8 @@ Implementation of Amiga (m68k) amiga.lib functions for Rust.
 
 This crate is intended to be used with the [amiga-sys](https://github.com/retrokp/amiga-sys) crate.
 
+**This library is still work in progress!**
+
 ## Features
 
  - implementations for amiga.lib functions
